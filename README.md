@@ -1,7 +1,7 @@
 # Calculator
 A simple calculator class
 
-##Functions
+## Functions
 - Add
 - Subtract
 - Multiply
